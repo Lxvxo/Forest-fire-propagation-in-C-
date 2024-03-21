@@ -4,6 +4,8 @@
 
 This project aims to create an interactive forest fire simulation using the C++ programming language and the Qt library for the graphical interface. Forest fires are complex natural phenomena that pose challenges in terms of understanding and management. This simulation will allow us to explore the behavior of fire propagation in different environments and conditions.
 
+![Capt2ure](https://github.com/Lxvxo/Forest-fire-propagation-in-C-/assets/113984090/d077e9d7-575b-4fd5-8d37-8648322de6da)
+
 ## Grid Implementation
 
 The simulation grid represents the forest area where the fire spreads. It is implemented using C++ classes and is capable of managing different cell states (trees, fire, ashes, etc.).
